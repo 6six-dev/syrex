@@ -1,1 +1,1 @@
- irm https://raw.githubusercontent.com/username/project/main/install.ps1 | iex 
+ irm https://raw.githubusercontent.com/6six-dev/syrex/refs/heads/main/install.ps1 | iex 
